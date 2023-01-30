@@ -1,6 +1,6 @@
 ### Hi there 👋
-###I'm a computer science student at the Higher National School of Computer Science ESI-Algiers
-###A full stack developer who's eager to do things that matter
+I'm a computer science student at the Higher National School of Computer Science ESI-Algiers
+A full stack developer who's eager to do things that matter
 <!--
 **yahiaDZz/yahiaDZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
