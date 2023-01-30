@@ -2,7 +2,7 @@
 #### The weirdo
 I'm a computer engineering student at ESI-Algiers , passionate developer and I do things that matter (well not always ;) )
 
-Skills: REACT / TAILWINDCSS / SPRINGBOOT / JAVA and sleeping ofc
+<h1>Skills</h1>
 
 <ul>
   <li>
