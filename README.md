@@ -5,7 +5,7 @@ I'm a computer engineering student at ESI-Algiers , passionate developer and I d
 Skills: REACT / TAILWINDCSS / SPRINGBOOT / JAVA and sleeping ofc
 
 [<img src='https://cdn.cdnlogo.com/logos/r/85/react.svg' alt='github' height='40'>]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>]
+[<img src='https://iconduck.com/icons/108483/spring?shared' alt='instagram' height='40'>]
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>]
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>]
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>]  
