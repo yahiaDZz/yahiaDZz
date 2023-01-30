@@ -4,11 +4,10 @@ I'm a computer engineering student at ESI-Algiers , passionate developer and I d
 
 Skills: REACT / TAILWINDCSS / SPRINGBOOT / JAVA and sleeping ofc
 
-[<img src='https://cdn.cdnlogo.com/logos/r/85/react.svg' alt='github' height='40'>]
-[<img src='https://iconduck.com/icons/108483/spring?shared' alt='instagram' height='40'>]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>]  
+[<img src='https://cdn.cdnlogo.com/logos/r/85/react.svg' alt='react' height='40'>]
+[<img src='https://iconduck.com/icons/108483/spring' alt='springboot' height='40'>]
+[<img src='https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg' alt='tailwindcss' height='40'>]
+[<img src='https://cdn.cdnlogo.com/logos/j/2/java.svg' alt='java' height='40'>]
 
 - 🔭 I’m currently working on full stack projects 
 - 🌱 I’m currently learning styling frameworks : bootstrap,tailwind 
