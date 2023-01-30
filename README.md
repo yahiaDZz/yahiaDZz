@@ -5,7 +5,7 @@ I'm a computer engineering student at ESI-Algiers , passionate developer and I d
 Skills: REACT / TAILWINDCSS / SPRINGBOOT / JAVA and sleeping ofc
 
 [<img src='https://cdn.cdnlogo.com/logos/r/85/react.svg' alt='react' height='40'>]
-[<img src='https://www.vectorlogo.zone/util/preview.html?image=/logos/springio/springio-ar21.svg' alt='springboot' height='40'>]
+[<img src='https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg' alt='springboot' height='40'>]
 [<img src='https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg' alt='tailwindcss' height='40'>]
 [<img src='https://cdn.cdnlogo.com/logos/j/2/java.svg' alt='java' height='40'>]
 
