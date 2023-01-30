@@ -6,12 +6,17 @@ I'm a computer engineering student at ESI-Algiers , passionate developer and I d
 
 <ul>
   <li>
+ <h2>Springboot</h2>
 <img src='https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg' alt='springboot' height='40'></li>
   <li>
+ <h2>TailwindCSS</h2>
 <img src='https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg' alt='tailwindcss' height='40'></li>
   <li>
+  
+ <h2>ReactJS</h2>
 <img src='https://cdn.cdnlogo.com/logos/r/85/react.svg' alt='react' height='40'></li>
   <li>
+ <h2>Java</h2>
 <img src='https://cdn.cdnlogo.com/logos/j/2/java.svg' alt='java' height='40'></li>
 </ul>
 - 🔭 I’m currently working on full stack projects 
