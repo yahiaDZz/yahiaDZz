@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Yahia
-#### The weirdo
+#### 
 I'm a computer engineering student at ESI-Algiers , passionate developer and I do things that matter (well not always ;) )
 
 <h1>Skills</h1>
