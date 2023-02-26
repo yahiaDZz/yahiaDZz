@@ -17,7 +17,7 @@ I'm a computer engineering student at ESI-Algiers , passionate developer and I d
 <img src='https://cdn.cdnlogo.com/logos/r/85/react.svg' alt='react' height='40'></li>
 </ul>
 <h1>Knowledge:</h1>
-<img src='https://cdn.cdnlogo.com/logos/j/2/java.svg' alt='java' height='40'>Java<img src='https://cdn.cdnlogo.com/logos/c/27/c.svg' alt='c#' height='40'>C<img src='https://cdn.cdnlogo.com/logos/c/36/c.svg' alt='c' height='40'>C#
+<img src='https://cdn.cdnlogo.com/logos/j/2/java.svg' alt='java' height='40'><img src='https://cdn.cdnlogo.com/logos/c/27/c.svg' alt='c#' height='40'><img src='https://cdn.cdnlogo.com/logos/c/36/c.svg' alt='c' height='40'>
 - 🔭 I’m currently working on full stack projects 
 - 🌱 I’m currently learning styling frameworks : bootstrap,tailwind 
 - 👯 I’m looking to collaborate on new projects that matter 
