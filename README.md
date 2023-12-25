@@ -5,10 +5,10 @@ I'm a computer engineering student at ESI-Algiers , passionate developer and I d
 <h1>Specialization:</h1>
 <h2>ML</h2>
 <h2>MERN Stack</h2>
-<h2>OOP w/Java (and related frameworks: Springboot, JFX, JSP)</h2>
+<h3>OOP w/Java (and related frameworks: Springboot, JFX, JSP)</h2>
 <h1>Frameworks:</h1>
 <h2>Numpy / Pandas / Matplotlib / SkLearn / Seaborn</h2>
-<h2>yfinance</h2>
+<h3>yfinance</h2>
 <h1>Big frameworks:</h1>
 <h2>Tensorflow</h2>
 <h2>Pytorch</h2>
