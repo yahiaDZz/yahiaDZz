@@ -7,12 +7,9 @@ I'm a computer engineering student at ESI-Algiers , passionate developer and I d
 <h2>MERN Stack</h2>
 <h2>OOP w/Java (and related frameworks: Springboot, JFX, JSP)</h2>
 <h1>Frameworks:</h1>
-<h2>Numpy</h2>
-<h2>Pandas</h2>
-<h2>Scikit-learn</h2>
-<h2>Seaborn</h2>
+<h2>Numpy / Pandas / Matplotlib / SkLearn / Seaborn</h2>
 <h2>yfinance</h2>
-<h1>Another -small- frameworks:</h1>
+<h1>Big frameworks:</h1>
 <h2>Tensorflow</h2>
 <h2>Pytorch</h2>
 
