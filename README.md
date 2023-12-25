@@ -1,29 +1,23 @@
 ### Hi there 👋, my name is Yahia
 #### 
-I'm a computer engineering student at ESI-Algiers , passionate developer and I do things that matter (well not always ;) )
+I'm a computer engineering student at ESI-Algiers , passionate developer and I do things that matter.
 
-<h1>Skills</h1>
+<h1>Specialization:</h1>
+<h2>ML</h2>
+<h2>MERN Stack</h2>
+<h2>OOP w/Java (and related frameworks: Springboot, JFX, JSP)</h2>
+<h1>Frameworks:</h1>
+<h2>Numpy</h2>
+<h2>Pandas</h2>
+<h2>Scikit-learn</h2>
+<h2>Seaborn</h2>
+<h2>yfinance</h2>
+<h1>Another -small- frameworks:</h1>
+<h2>Tensorflow</h2>
+<h2>Pytorch</h2>
 
-<ul>
-  <li>
- <h2>Springboot</h2>
-<img src='https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg' alt='springboot' height='40'></li>
-  <li>
- <h2>TailwindCSS</h2>
-<img src='https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg' alt='tailwindcss' height='40'></li>
-  <li>
-  
- <h2>ReactJS</h2>
-<img src='https://cdn.cdnlogo.com/logos/r/85/react.svg' alt='reactjs' height='40'></li>
-  <li>
- <h2>NodeJS</h2>
-<img src='https://cdn.cdnlogo.com/logos/n/79/node-js.svg' alt='nodejs' height='40'></li>
-</ul>
-<h1>Knowledge:</h1>
-<img src='https://cdn.cdnlogo.com/logos/j/2/java.svg' alt='java' height='40'><img src='https://cdn.cdnlogo.com/logos/c/27/c.svg' alt='c#' height='40'><img src='https://cdn.cdnlogo.com/logos/c/36/c.svg' alt='c' height='40'>
-- 🔭 I’m currently working on full stack projects 
-- 🌱 I’m currently learning styling frameworks : bootstrap,tailwind 
-- 👯 I’m looking to collaborate on new projects that matter 
+- 🔭 I’m currently working on Machine Learning projects related to finance.
+- 🌱 I’m currently learning: Tensorflow, PyTorch. 
 - ⚡ Fun fact: why do ALL Java developers wear glasses?! 
 
 
@@ -34,5 +28,3 @@ I'm a computer engineering student at ESI-Algiers , passionate developer and I d
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yahiaDZz&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=yahiaDZz)  
-
-![Profile views](https://gpvc.arturio.dev/yahiaDZz)  
